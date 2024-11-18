@@ -1,0 +1,9 @@
+Olá, venho aqui explicar algumas faltas que podem ter no meu desafio;
+
+Eu não consegui testar corretamente o backend por motivos de falta de conhecimento e algumas falhas técnica no meu equipamento;
+Não consegui fazer o "Processamento de Atas" também por motivos de falta de conhecimento, mas vou correr atrás de aprender sobre.
+
+Eu ainda não tive tanta experiência com C#, tive apenas no começo do curso da faculdade, foi um desafio e tanto fazer um projeto desses assim, mas dei o meu melhor e corri atrás do conhecimento.
+Eu gostei demais de ver como tudo isso funciona e só me deixou mais animado para aprender mais e mais sobre.
+
+Desde já peço perdão por alguns erros no meu projeto, mas agradeço muito pela oportunidade de aprender e colocar a mão na massa!
